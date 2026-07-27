@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=900&pause=1000&color=FFA500&center=true&multiline=true&width=435&lines=Hello++World!+-+NovaXi" alt="Typing SVG" /></a></h1>
 
-- 👋 Hello there! I'm @NovaXi
+- 👋 Hello there! I'm [@NovaXi](https://github.com/NovaXi)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/330px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="Arch Linux logo" height="18" /> Yes, I use Arch btw
 
 ### Contact Me
